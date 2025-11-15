@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>Aspiring Developer | Learning Code & Building Projects</h3>
 
 ---
-#### ⭐ Learning code one bug at a time.
+#### <h3>⭐ Learning code one bug at a time.</h3>
 
 ---
 
