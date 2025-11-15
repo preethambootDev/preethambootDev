@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Preetham</h1>
 <h3>Aspiring Developer | Learning Code & Building Projects</h3>
 
----
+
 #### <h3>⭐ Learning code one bug at a time.</h3>
 
 ---
