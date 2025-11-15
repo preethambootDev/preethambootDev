@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 > “The best way to predict the future is to create it.”
 
 ---
-#### <h2> Let’s push knowledge commits together 😄 </h2>
+#### <h3> 😄 Let’s push knowledge commits together.  </h3>
 ----
 
 
