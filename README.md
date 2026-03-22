@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 #### **Frameworks**
 <p>
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=plastic&logo=angularjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
