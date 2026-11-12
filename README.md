@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Coding & Development**
-- 💻 Exploring: **C++, Java, JavaScript, R, Python, HTML, Blender 3D**
-- 🔥 Passionate about writing clean code & problem-solving
-- 🎯 Goal: Become a full-stack developer
+
+- 🤖 Interested in **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**
+- 🧠 Exploring the workflows and architecture behind **RAG applications** and **Agentic AI**
+- 💡 Passionate about **Artificial Intelligence, problem-solving, and building intelligent applications**
+- 🌱 Constantly learning and exploring emerging technologies in **AI & Software Development**
 
 ---
 
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   
 </p>
